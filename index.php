@@ -8,5 +8,9 @@
 <body>
     <h3>Hello Wolrd!</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam veritatis debitis, cum deleniti quia voluptatibus optio eos porro nam. Harum nobis voluptatum rem doloribus alias ea corrupti officia, cumque aliquid?</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
